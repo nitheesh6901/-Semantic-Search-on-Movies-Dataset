@@ -19,4 +19,4 @@ Unlike traditional keyword search, it retrieves movies based on "meaning and con
  How to Run
 1. Clone the repo:
 ```bash
-git clone https://github.com/yourusername/semantic-search-movies.git
+git clone https://github.com/nitheesh6901/semantic-search-movies.git
